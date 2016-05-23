@@ -8,5 +8,5 @@ Hey World,
 
 I'm Chris,
 
-I love parrots, love to watch series and animes and  play a lot of videogames :D
-But for real I am learning how to programm for my master thesis and work on a project, which has been developed during the past 7 years and has no comments or documentary at all and for gods sake I have to master this thing :D Therefore I learn proper programming skills, so no one who will be working at our physics chair has the same problems with my future projects, as I have to face now.
+I love parrots, love to watch series and animes and  play a lot of videogames.
+But for real I am learning how to programm for my master thesis and work on a project, which has been developed during the past 7 years and has no comments or documentary at all and for gods sake I have to master this thing :D Therefore I learn proper programming skills, so no one who will be working at our physics workgroup has the same problems with my future projects, as I have to face now.
